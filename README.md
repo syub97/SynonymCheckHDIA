@@ -22,6 +22,8 @@ Binding HDI Source Contianer directly to Target Container
 which user will be used?
 2. using User provider Service  
 Binding UPS to Target Container
+
+## Connect to other instance
 3. using SDA with hana cloud connecter for hana on premise  
 not yet success with MSSQL Server
 4. using SDI to create link with other database  
